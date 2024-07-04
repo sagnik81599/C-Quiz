@@ -39,3 +39,21 @@
 // Ans:- 4
 // ---------------------------------------------------
 
+// #include<stdio.h>
+// void main(){
+//     int arr2[]={10,20,30};
+//     printf("%d\n",arr2[3]);
+// } 
+
+// Ans-: Garbage value or 0
+// ------------------------------------------
+
+// #include<stdio.h>
+// void main(){
+//     char arr3[]="JECA PREPARATION";
+//     printf("%s\n",arr3);
+// }  
+
+// Ans:- JECA PREPARATION
+// -------------------------------------------------
+
