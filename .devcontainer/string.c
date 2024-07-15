@@ -19,13 +19,24 @@
 //Ans:- HELLO WORLD
 //------------------------------------------------------------
 
-#include<stdio.h>
-#include<string.h>
-void main(){
-    char str3[]="Mahendra Singh";
-    char str4[]="DhoniCaptain";
-    strncat(str3,str4,5);
-    printf("%s\n",str3);
-}
+// #include<stdio.h>
+// #include<string.h>
+// void main(){
+//     char str3[]="Mahendra Singh";
+//     char str4[]="DhoniCaptain";
+//     strncat(str3,str4,5);
+//     printf("%s\n",str3);
+// }
 
 //Ans:- Mahendra SinghDhoni
+
+// #include<stdio.h>
+// #include<string.h>
+// void main(){
+//     char str5[]="Mahendra Singh";
+    
+    
+//     printf("%d\n",strlen(str5));
+// }
+
+//Ans:- 14
