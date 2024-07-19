@@ -29,14 +29,14 @@
 // }
 
 //Ans:- Mahendra SinghDhoni
+//-------------------------------------------------
 
 // #include<stdio.h>
 // #include<string.h>
 // void main(){
-//     char str5[]="Mahendra Singh";
-    
-    
+//     char str5[]="Mahendra Singh"; 
 //     printf("%d\n",strlen(str5));
 // }
 
 //Ans:- 14
+//----------------------------------------------------------
