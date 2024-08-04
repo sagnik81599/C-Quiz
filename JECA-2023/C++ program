@@ -147,3 +147,29 @@
 
 // Ans:- 210
 //------------------------------------------- 
+
+
+// #include <iostream>
+// using namespace std;
+
+//     // Write C++ code here
+//     struct demo
+//     {
+//         int var;
+//     };
+    
+//     int main(){
+//         demo str;
+//         demo *ptr;
+        
+//         str.var = 100;
+//         ptr = &str;
+//         cout<<ptr->var;
+//         return 0;
+    
+
+//     return 0;
+// }
+
+// Ans:- 100
+//------------------------------------------------------------
